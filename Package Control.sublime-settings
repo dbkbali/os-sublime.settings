@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"Clipboard Manager",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"JavaScript & Coffeescript Build Systems",
+		"Package Control",
+		"Pretty Ruby",
+		"Railscasts Extended",
+		"Ruby Debugger",
+		"RubyEval",
+		"RubyTest",
+		"SFTP",
+		"SqlBeautifier",
+		"SQLExec",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Syntax Manager",
+		"Theme - El Capitan",
+		"Theme - Primer"
+	]
+}

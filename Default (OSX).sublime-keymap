@@ -14,6 +14,6 @@
   { "keys": ["super+v"], "command": "clipboard_manager_paste", "args": { "indent": true } },
   { "keys": ["super+ctrl+v"], "command": "clipboard_manager_paste", "args": { "indent": false } },
   { "keys": ["super+shift+v"], "command": "clipboard_manager_previous_and_paste" },
-  { "keys": ["super+alt+ctrl+v"], "command": "clipboard_manager_choose_and_paste" }
-
+  { "keys": ["super+alt+ctrl+v"], "command": "clipboard_manager_choose_and_paste" },
+  { "keys": ["ctrl+alt+f"], "command": "js_format", "context": [{"key": "selector", "operator": "equal", "operand": "source.javascript"}] }
 ]

@@ -1,7 +1,8 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"theme": "Soda Dark 3.sublime-theme",
+	"color_scheme": "Packages/Colorsublime - Themes/Neon.tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,

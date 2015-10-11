@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Babel",
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Clipboard Manager",
@@ -19,6 +20,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSHint",
+		"JSX",
 		"Package Control",
 		"PgSQL",
 		"Pretty Ruby",
@@ -35,6 +37,7 @@
 		"Syntax Manager",
 		"Theme - El Capitan",
 		"Theme - Primer",
-		"Theme - Soda"
+		"Theme - Soda",
+		"View In Browser"
 	]
 }

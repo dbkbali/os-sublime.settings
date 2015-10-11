@@ -1,7 +1,6 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"theme": "Soda Dark 3.sublime-theme",
 	"color_scheme": "Packages/Colorsublime - Themes/Neon.tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -17,6 +16,7 @@
 		79
 	],
 	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

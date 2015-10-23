@@ -2,15 +2,20 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 14,
+	"font_size": 15,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Theme - Flatland",
 		"Vintage"
 	],
 	"index_files": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,

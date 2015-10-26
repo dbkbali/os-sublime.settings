@@ -1,9 +1,9 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 15,
